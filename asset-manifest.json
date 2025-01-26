@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GenNewsLP/static/css/main.48ab48a6.css",
-    "main.js": "/GenNewsLP/static/js/main.a9c5b323.js",
+    "main.js": "/GenNewsLP/static/js/main.5db429b4.js",
     "reactPlayerYouTube.js": "/GenNewsLP/static/js/reactPlayerYouTube.9d782f1a.chunk.js",
     "reactPlayerSoundCloud.js": "/GenNewsLP/static/js/reactPlayerSoundCloud.0f706a37.chunk.js",
     "reactPlayerVimeo.js": "/GenNewsLP/static/js/reactPlayerVimeo.b00b5540.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/2.png": "/GenNewsLP/static/media/2.2b347074a00ffa02f3a5.png",
     "index.html": "/GenNewsLP/index.html",
     "main.48ab48a6.css.map": "/GenNewsLP/static/css/main.48ab48a6.css.map",
-    "main.a9c5b323.js.map": "/GenNewsLP/static/js/main.a9c5b323.js.map",
+    "main.5db429b4.js.map": "/GenNewsLP/static/js/main.5db429b4.js.map",
     "reactPlayerYouTube.9d782f1a.chunk.js.map": "/GenNewsLP/static/js/reactPlayerYouTube.9d782f1a.chunk.js.map",
     "reactPlayerSoundCloud.0f706a37.chunk.js.map": "/GenNewsLP/static/js/reactPlayerSoundCloud.0f706a37.chunk.js.map",
     "reactPlayerVimeo.b00b5540.chunk.js.map": "/GenNewsLP/static/js/reactPlayerVimeo.b00b5540.chunk.js.map",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.48ab48a6.css",
-    "static/js/main.a9c5b323.js"
+    "static/js/main.5db429b4.js"
   ]
 }
